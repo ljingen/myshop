@@ -1,0 +1,15 @@
+.col-center-block {  
+    margin-left: auto;  
+    margin-right: auto;
+    display: block;
+    float: none;  
+}
+.yellow{
+    color: #ffd780
+}
+.blue{
+    color: #36aee2
+}
+.green{
+    color: green
+}
